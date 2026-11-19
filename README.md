@@ -1,5 +1,7 @@
 # Windows Memory Cleaner — Next Generation
 
+> **[Download the latest build](https://github.com/kabaliGamer-Dev2/windows-memory-cleaner-ng/releases/latest)** · **[Visit the website](https://kabaligamer-dev2.github.io/windows-memory-cleaner-ng-website/)** — screenshots, feature tour and FAQ.
+
 A Windows desktop app for running the system's own memory-management operations on demand, and seeing exactly what happened.
 
 Created and developed by **Kabbali Gamer**.
@@ -22,7 +24,7 @@ This app does not promise performance gains. It gives you deliberate access to s
 
 ### Installer (recommended)
 
-1. Download `WindowsMemoryCleanerNG_2.0.0_x64-setup.exe`.
+1. Download [`WindowsMemoryCleanerNG_2.0.0_x64-setup.exe`](https://github.com/kabaliGamer-Dev2/windows-memory-cleaner-ng/releases/latest/download/v2.0.0/WindowsMemoryCleanerNG_2.0.0_x64-setup.exe).
 2. Run it. It installs for the current user and does not need administrator rights to install.
 3. Launch **Windows Memory Cleaner NG** from the Start Menu or the desktop shortcut.
 
