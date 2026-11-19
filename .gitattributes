@@ -1,0 +1,24 @@
+# Normalise line endings in the repository, not on checkout.
+* text=auto eol=lf
+
+# Executables and images must never be line-ending converted.
+*.exe binary
+*.dll binary
+*.ico binary
+*.png binary
+*.jpg binary
+*.woff2 binary
+
+# Language defaults
+*.rs text
+*.ts text
+*.tsx text
+*.css text
+*.md text
+*.json text
+*.toml text
+Cargo.lock text
+
+# Generated files that make diffs noisy
+pnpm-lock.yaml -diff
+src-tauri/Cargo.lock -diff

@@ -1,0 +1,77 @@
+Copyright © 2026 Kabbali Gamer. All rights reserved.
+
+Windows Memory Cleaner — Next Generation
+========================================
+
+This software and its accompanying materials are proprietary and
+confidential. They are made available for use only under the terms set out
+below.
+
+1. LICENCE GRANT
+
+   Kabbali Gamer ("the Author") grants you a personal, non-exclusive,
+   non-transferable, revocable licence to download and use the compiled
+   application for its intended purpose on devices you own or control.
+
+   No other rights are granted. In particular, no licence is granted to the
+   source code, and the source code is not distributed with this software.
+
+2. RESTRICTIONS
+
+   You may not:
+
+   a) copy, publish, distribute, sublicense, rent, lease or sell the software
+      or any part of it, except that you may redistribute the unmodified
+      installer or portable executable in its entirety and without charge;
+
+   b) reverse engineer, decompile, disassemble or otherwise attempt to derive
+      the source code, except to the extent that applicable law expressly
+      permits despite this restriction;
+
+   c) modify, adapt, translate or create derivative works from the software;
+
+   d) remove, obscure or alter any copyright, licence or attribution notice;
+
+   e) use the software or any part of it to develop a competing product.
+
+3. OWNERSHIP
+
+   The software is licensed, not sold. The Author retains all right, title and
+   interest in and to the software, including all intellectual property rights.
+
+4. THIRD-PARTY COMPONENTS
+
+   The software includes the DM Sans typeface, which is licensed separately
+   under the SIL Open Font License 1.1. See `docs/CREDITS.md`. Third-party
+   components remain governed by their own licences, which take precedence over
+   this notice for those components only.
+
+5. NO WARRANTY
+
+   THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+   IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+   FITNESS FOR A PARTICULAR PURPOSE AND NON-INFRINGEMENT. YOU USE IT AT YOUR
+   OWN RISK.
+
+6. LIMITATION OF LIABILITY
+
+   IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+   LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING
+   FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OF THE SOFTWARE.
+
+7. TERMINATION
+
+   This licence terminates automatically if you breach any of its terms. On
+   termination you must stop using the software and delete all copies.
+
+8. CONTACT
+
+   For permission requests beyond the scope of this licence, contact the Author
+   through the repository's issue tracker.
+
+Note on prior publications
+--------------------------
+An earlier version of this project was published briefly under
+GPL-3.0-or-later. That grant, where it was received, applies only to the
+specific material published at that time and cannot be revoked retroactively.
+All subsequent and current versions are proprietary as set out above.
